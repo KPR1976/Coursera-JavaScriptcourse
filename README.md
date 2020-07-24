@@ -1,3 +1,3 @@
 code for courses:
-https://www.coursera.org/learn/javascript-osnovy-i-funktsii
-https://www.coursera.org/learn/javascript-prototipy
+1. https://www.coursera.org/learn/javascript-osnovy-i-funktsii
+2. https://www.coursera.org/learn/javascript-prototipy
