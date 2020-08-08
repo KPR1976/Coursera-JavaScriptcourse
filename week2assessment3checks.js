@@ -2,7 +2,7 @@
 var assert = require('assert');
 
 // Подключаем свою функцию
-var phoneBook = require('./index.js');
+var phoneBook = require('./week2assessment3.js');
 
 // Добавляем телефоны контакту Ivan
 phoneBook('ADD Ivan 555-10-01,555-10-03');
