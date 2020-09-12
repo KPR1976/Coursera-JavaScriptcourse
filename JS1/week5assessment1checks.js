@@ -2,7 +2,7 @@
 var assert = require('assert');
 
 // Подключаем свою функцию
-var emitter = require('./index.js');
+var emitter = require('./week5assessment1.js');
 
 // Определим объект для счетчика нотификаций
 var notifications = {
